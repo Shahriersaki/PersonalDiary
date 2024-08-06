@@ -27,7 +27,7 @@ This is a simple Python application for maintaining a personal diary. It allows 
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have suggestions for improvements, please [open an issue](https://github.com/yourusername/PersonalDiary/issues) or [create a pull request](https://github.com/yourusername/PersonalDiary/pulls).
+Contributions are welcome! If you find a bug or have suggestions for improvements, please [open an issue](https://github.com/Shahriersaki/PersonalDiary/issues) or [create a pull request](https://github.com/Shahriersaki/PersonalDiary/pulls).
 
 ## License
 
